@@ -11,7 +11,7 @@ code = [
     "X DS F'4'",
     'END']
 MNT=[]
-MDT=[
+MDT=[]
 for i in range(len(code)):
     splitcode = code[i].split()
     lsplit =len(splitcode)
